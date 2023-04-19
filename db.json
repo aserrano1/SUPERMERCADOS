@@ -1,29 +1,29 @@
 {
-  "BatchSearchStrategyInbound": 
+  "BatchSearchStrategyInbound": {
     "row": {
-    "Sequence_No": "51",
-    "Ship_to_Party": "1003939",
-    "Sales_Organization": "",
-    "Material": "100000000191",
-    "Plant": "2901",
-    "Valid_From": "20230310",
-    "Valid_To": "99991231",
-    "Storage_Location": "",
-    "Material_Group": "",
-    "ClassName": [
-      {
-        "Class_Name": "CLASS_POWDER_BSS",
-        "Characterstic_Name": "CD",
-        "Characterstic_Value": "10"
-      },
-      {
-        "Class_Name": "CLASS_POWDER_BSS",
-        "Characterstic_Name": "FFA",
-        "Characterstic_Value": "10"
-      }
-    ]
-  }
-  ,
+      "Sequence_No": "51",
+      "Ship_to_Party": "1003939",
+      "Sales_Organization": "",
+      "Material": "100000000191",
+      "Plant": "2901",
+      "Valid_From": "20230310",
+      "Valid_To": "99991231",
+      "Storage_Location": "",
+      "Material_Group": "",
+      "ClassName": [
+        {
+          "Class_Name": "CLASS_POWDER_BSS",
+          "Characterstic_Name": "CD",
+          "Characterstic_Value": "10"
+        },
+        {
+          "Class_Name": "CLASS_POWDER_BSS",
+          "Characterstic_Name": "FFA",
+          "Characterstic_Value": "10"
+        }
+      ]
+    }
+  },
   "profile": {
     "name": "typicode"
   }
