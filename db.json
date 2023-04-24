@@ -26,5 +26,107 @@
   },
   "profile": {
     "name": "typicode"
+  },
+"LIMS_InspectionPlan":{
+  "LIMS_InspnPlan_MT": {
+    "row": [
+      {
+        "Group_Number": "String 1", 
+        "Group_Counter": "String 2",
+        "Valid_FromDate": "String 3",
+        "Tasklist_Usage": "String 4",
+        "Plant": "String 5",
+        "Tasklist_UOM": "String 6",
+        "From_LotSize": "String 7",
+        "To_LotSize": "",
+        "TaskList_Desc": "String 9",
+        "Material_Number": "String 10",
+        "Material_Plant": "String 11","--> No esta en el FRS"
+        "Operation_Number": "String 12",
+        "Work_Center": "String 13",
+        "Operation_Shorttext": "String 14",
+        "Operation_UOM": "String 15",
+        "Base_Quantity": "String 16",
+        "MIC": [
+          {
+            "Quantitative_Characteristic": "String 18",
+            "Master_Inspn_Chars": "String 19",
+            "Plant": "String 20",
+            "Inspection_Method": "String 21",
+            "Inspection_Method_plant": "String 22",
+            "No_of_Places": "String 23",
+            "ISOCode_UOM": "String 24",
+            "Target_Value": "String 25",
+            "Upper_SpecLimit": "String 26",
+            "Lower_SpecLimit": "String 27",
+            "Selected_Set": "String 28",
+            "SelectedSet_Plant": "String 29"
+          },
+          {
+            "Quantitative_Characteristic": "String 31",
+            "Master_Inspn_Chars": "String 32",
+            "Plant": "String 33",
+            "Inspection_Method": "String 34",
+            "Inspection_Method_plant": "String 35",
+            "No_of_Places": "String 36",
+            "ISOCode_UOM": "String 37",
+            "Target_Value": "String 38",
+            "Upper_SpecLimit": "String 39",
+            "Lower_SpecLimit": "String 40",
+            "Selected_Set": "String 41",
+            "SelectedSet_Plant": "String 42"
+          }
+        ]
+      },
+      {
+        "Group_Number": "String 43",
+        "Group_Counter": "String 44",
+        "Valid_FromDate": "String 45",
+        "Tasklist_Usage": "String 46",
+        "Plant": "String 47",
+        "Tasklist_UOM": "String 48",
+        "From_LotSize": "String 49",
+        "To_LotSize": "String 50",
+        "TaskList_Desc": "String 51",
+        "Material_Number": "String 52",
+        "Material_Plant": "String 53",
+        "Operation_Number": "String 54",
+        "Work_Center": "String 55",
+        "Operation_Shorttext": "String 56",
+        "Operation_UOM": "String 57",
+        "Base_Quantity": "String 58",
+        "MIC": [
+          {
+            "Quantitative_Characteristic": "String 60",
+            "Master_Inspn_Chars": "String 61",
+            "Plant": "String 62",
+            "Inspection_Method": "String 63",
+            "Inspection_Method_plant": "String 64",
+            "No_of_Places": "String 65",
+            "ISOCode_UOM": "String 66",
+            "Target_Value": "String 67",
+            "Upper_SpecLimit": "String 68",
+            "Lower_SpecLimit": "String 69",
+            "Selected_Set": "String 70",
+            "SelectedSet_Plant": "String 71"
+          },
+          {
+            "Quantitative_Characteristic": "String 73",
+            "Master_Inspn_Chars": "String 74",
+            "Plant": "String 75",
+            "Inspection_Method": "String 76",
+            "Inspection_Method_plant": "String 77",
+            "No_of_Places": "String 78",
+            "ISOCode_UOM": "String 79",
+            "Target_Value": "String 80",
+            "Upper_SpecLimit": "String 81",
+            "Lower_SpecLimit": "String 82",
+            "Selected_Set": "String 83",
+            "SelectedSet_Plant": "String 84"
+          }
+        ]
+      }
+    ]
   }
+}  
 }
