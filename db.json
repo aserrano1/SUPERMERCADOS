@@ -24,9 +24,6 @@
       ]
     }
   },
-  "profile": {
-    "name": "typicode"
-  },
 "LIMS_InspectionPlan":{
    "row":[
       {
@@ -60,5 +57,72 @@
          "From_LotSize":""
       }
    ]
-}  
+},"LIMS_Results_MT": {
+    "row": [
+      {
+        "InspectionLot_No": "String 1",
+        "Operation": "String 2",
+        "Physical_SampleNo": "String 3",
+        "Plant": "String 4",
+        "Batch_Number": "String 5",
+        "HU_Number": "String 6",
+        "MIC": [
+          {
+            "Close_Characteristic": "String 7",
+            "Copy_Valuation": "String 8",
+            "Inspection_Result_Valuation": "String 9",
+            "Master_Inspn_Chars": "String 10",
+            "Mean_Value": "String 11",
+            "Name_of_Inspector": "String 12",
+            "Inspection_Description": "String 13",
+            "Code": "String 14",
+            "Code_Group": "String 15"
+          },
+          {
+            "Close_Characteristic": "String 16",
+            "Copy_Valuation": "String 17",
+            "Inspection_Result_Valuation": "String 18",
+            "Master_Inspn_Chars": "String 19",
+            "Mean_Value": "String 20",
+            "Name_of_Inspector": "String 21",
+            "Inspection_Description": "String 22",
+            "Code": "String 23",
+            "Code_Group": "String 24"
+          }
+        ]
+      },
+      {
+        "InspectionLot_No": "String 25",
+        "Operation": "String 26",
+        "Physical_SampleNo": "String 27",
+        "Plant": "String 28",
+        "Batch_Number": "String 29",
+        "HU_Number": "String 30",
+        "MIC": [
+          {
+            "Close_Characteristic": "String 31",
+            "Copy_Valuation": "String 32",
+            "Inspection_Result_Valuation": "String 33",
+            "Master_Inspn_Chars": "String 34",
+            "Mean_Value": "String 35",
+            "Name_of_Inspector": "String 36",
+            "Inspection_Description": "String 37",
+            "Code": "String 38",
+            "Code_Group": "String 39"
+          },
+          {
+            "Close_Characteristic": "String 40",
+            "Copy_Valuation": "String 41",
+            "Inspection_Result_Valuation": "String 42",
+            "Master_Inspn_Chars": "String 43",
+            "Mean_Value": "String 44",
+            "Name_of_Inspector": "String 45",
+            "Inspection_Description": "String 46",
+            "Code": "String 47",
+            "Code_Group": "String 48"
+          }
+        ]
+      }
+    ]
+  }  
 }
