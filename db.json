@@ -1,126 +1,64 @@
 {
-  "LIMS_BatchSearch": {
-    "row": {
-      "Sequence_No": "501",
-      "Ship_to_Party": "1003939",
-      "Sales_Organization": "",
-      "Material": "100000000191",
-      "Plant": "2901",
-      "Valid_From": "20230310",
-      "Valid_To": "99991231",
-      "Storage_Location": "",
-      "Material_Group": "",
-      "ClassName": [
+  "sample_code": "AL-23/085152",
+  "business_code": "65946",
+  "calculations": {
+    "LMR": [
+      "EU"
+    ],
+    "REGISTER": [],
+    "ARFD": [
+      "EU"
+    ],
+    "ADI": [
+      "EU"
+    ],
+    "PRP": [
+      "EU"
+    ],
+    "RETAILERS": [
+      "RW1",
+      "ALDI01",
+      "ALDI02",
+      "DLH",
+      "DOH",
+      "HOF",
+      "NRM",
+      "KFL",
+      "JBO",
+      "AHO",
+      "EDK1",
+      "EDK2",
+      "EDK3",
+      "GLB",
+      "GLO1",
+      "LDL  ",
+      "MTR1",
+      "TGT",
+      "ABH",
+      "ZEN",
+      "TESCO",
+      "EUROGROUP"
+    ]
+  },
+  "sanco_code": "0163010",
+  "results": [
+    {
+      "parameter": "Clorfenapir",
+      "cas": "122453-73-0",
+      "result": "0.053618",
+      "unit": "mg/kg",
+      "lc": "0.01",
+      "lmr": [
         {
-          "Class_Name": "CLASS_POWDER_BSS",
-          "Characterstic_Name": "CD",
-          "Characterstic_Value": "10"
-        },
-        {
-          "Class_Name": "CLASS_POWDER_BSS",
-          "Characterstic_Name": "FFA",
-          "Characterstic_Value": "10"
+          "country_code": "EU",
+          "value": "0.01",
+          "unit": "ppm"
         }
       ]
     }
-  },
-"LIMS_InspectionPlan":{
-   "row":[
-      {
-         "Group_Counter":"",
-         "Operation_UOM":"",
-         "Group_Number":"Cameroon Sea Ship Beans",
-         "Valid_FromDate":"",
-         "MIC":[
-            {
-               "ISOCode_UOM":"",
-               "Quantitative_Characteristic":"",
-               "Plant":"4860",
-               "Selected_Set":"MICROB",
-               "No_of_Places":"",
-               "SelectedSet_Plant":"4866",
-               "Upper_SpecLimit":"",
-               "Inspection_Method":"",
-               "Lower_SpecLimit":""
-            }
-         ],
-         "Operation_Number":"",
-         "To_LotSize":"",
-         "Work_Center":"",
-         "Base_Quantity":"",
-         "Material_Number":"Cameroon Sea Ship Beans (main crop)",
-         "TaskList_Desc":"",
-         "Plant":"",
-         "Tasklist_Usage":"",
-         "Tasklist_UOM":"",
-         "Operation_Shorttext":"",
-         "From_LotSize":""
-      }
-   ]
-},"LIMS_Results_MT": {
-    "row": [
-      {
-        "InspectionLot_No": "String 1",
-        "Operation": "String 2",
-        "Physical_SampleNo": "String 3",
-        "Plant": "String 4",
-        "Batch_Number": "String 5",
-        "HU_Number": "String 6",
-        "MIC": [
-          {
-            "Close_Characteristic": "String 7",
-            "Copy_Valuation": "String 8",
-            "Inspection_Result_Valuation": "String 9",
-            "Master_Inspn_Chars": "String 10",
-            "Mean_Value": "String 11",
-            "Name_of_Inspector": "String 12",
-            "Inspection_Description": "String 13",
-            "Code": "String 14",
-            "Code_Group": "String 15"
-          },
-          {
-            "Close_Characteristic": "String 16",
-            "Copy_Valuation": "String 17",
-            "Inspection_Result_Valuation": "String 18",
-            "Master_Inspn_Chars": "String 19",
-            "Mean_Value": "String 20",
-            "Name_of_Inspector": "String 21",
-            "Inspection_Description": "String 22",
-            "Code": "String 23",
-            "Code_Group": "String 24"
-          }
-        ]
-      },
-      {
-        "InspectionLot_No": "String 25",
-        "Operation": "String 26",
-        "Physical_SampleNo": "String 27",
-        "Plant": "String 28",
-        "Batch_Number": "String 29",
-        "HU_Number": "String 30",
-        "MIC": [
-          {
-            "Close_Characteristic": "String 31",
-            "Copy_Valuation": "String 32",
-            "Inspection_Result_Valuation": "String 33",
-            "Master_Inspn_Chars": "String 34",
-            "Mean_Value": "String 35",
-            "Name_of_Inspector": "String 36",
-            "Inspection_Description": "String 37",
-            "Code": "String 38",
-            "Code_Group": "String 39"
-          },
-          {
-            "Close_Characteristic": "String 40",
-            "Copy_Valuation": "String 41",
-            "Inspection_Result_Valuation": "String 42",
-            "Master_Inspn_Chars": "String 43",
-            "Mean_Value": "String 44",
-            "Name_of_Inspector": "String 45",
-            "Inspection_Description": "String 46",
-            "Code": "String 47",
-            "Code_Group": "String 48"
-          }
+  ]
+}
+
         ]
       }
     ]
