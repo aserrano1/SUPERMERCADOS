@@ -1,66 +1,21 @@
 {
-  "sample_code": "AL-23/085152",
-  "business_code": "65946",
-  "calculations": {
-    "LMR": [
-      "EU"
-    ],
-    "REGISTER": [],
-    "ARFD": [
-      "EU"
-    ],
-    "ADI": [
-      "EU"
-    ],
-    "PRP": [
-      "EU"
-    ],
-    "RETAILERS": [
-      "RW1",
-      "ALDI01",
-      "ALDI02",
-      "DLH",
-      "DOH",
-      "HOF",
-      "NRM",
-      "KFL",
-      "JBO",
-      "AHO",
-      "EDK1",
-      "EDK2",
-      "EDK3",
-      "GLB",
-      "GLO1",
-      "LDL  ",
-      "MTR1",
-      "TGT",
-      "ABH",
-      "ZEN",
-      "TESCO",
-      "EUROGROUP"
-    ]
-  },
-  "sanco_code": "0163010",
-  "results": [
+  "posts": [
     {
-      "parameter": "Clorfenapir",
-      "cas": "122453-73-0",
-      "result": "0.053618",
-      "unit": "mg/kg",
-      "lc": "0.01",
-      "lmr": [
-        {
-          "country_code": "EU",
-          "value": "0.01",
-          "unit": "ppm"
-        }
-      ]
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "supermercados": {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
-
-        ]
-      }
-    ]
-  }  
+  }
 }
